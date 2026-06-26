@@ -3,6 +3,8 @@
 A beginner-friendly, practical study repository for the EC-Council Certified
 Penetration Testing Professional (CPENT) curriculum.
 
+GitHub project: [rajsegar/CPENT-project](https://github.com/rajsegar/CPENT-project)
+
 Student: RedteamAI  
 Study goal: CPENT practical exam preparation before November 2026
 
