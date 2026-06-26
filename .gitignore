@@ -1,0 +1,28 @@
+# Operating systems and editors
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local secrets and environment files
+.env
+.env.*
+*.key
+*.pem
+*.p12
+secrets/
+
+# Raw lab evidence that may contain sensitive data
+*.pcap
+*.pcapng
+*.har
+*.core
+evidence-private/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
