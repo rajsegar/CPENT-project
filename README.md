@@ -25,6 +25,9 @@ Use [Templates/Lab-Template.md](Templates/Lab-Template.md) before each lab and
 [Reports/Finding-Report-Template.md](Reports/Finding-Report-Template.md) when a
 lab produces a reportable issue.
 
+Preparing for the November 2026 exam? Follow the
+[20-week study plan](Study-Plan-November-2026.md).
+
 ## Core modules
 
 This structure follows the current 14-module CPENT course outline published by
