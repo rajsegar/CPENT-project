@@ -1,1 +1,24 @@
+# Module 01 — Final Summary
 
+Date: 28 June 2026
+
+The complete beginner-friendly lesson is available in
+[Notes.md](Notes.md).
+
+## Key Takeaways
+
+- Penetration testing is an authorized simulated attack.
+- Vulnerability scanning finds possible weaknesses; penetration testing
+  validates exploitability and impact.
+- Written authorization, scope, and rules of engagement come before testing.
+- The three main phases are Pre-Attack, Attack, and Post-Attack.
+- Pre-Attack covers planning, reconnaissance, scanning, and enumeration.
+- Attack covers controlled validation and exploitation within scope.
+- Post-Attack covers evidence, cleanup, reporting, remediation, and retesting.
+- The LPT methodology provides a structured professional testing process.
+- MITRE ATT&CK maps adversary behaviour; it is not a penetration testing
+  checklist.
+- Artificial intelligence can assist a tester, but humans remain responsible
+  for authorization, safety, verification, and reporting.
+
+> No written authorization means no testing.
