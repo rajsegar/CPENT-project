@@ -11,6 +11,7 @@ business evidence.
 - [Beginner notes](Notes.md)
 - [Commands](Commands.md)
 - [Practical lab](Labs.md)
+- [Completed Lab 01 record](Lab-01-Completion-Record.md)
 - [Quiz](Quiz.md)
 - [Flashcards](Flashcards/Flashcards.md)
 - [Cheat sheet](Cheatsheet.md)
@@ -23,6 +24,7 @@ business evidence.
 - [ ] I can name the main testing phases.
 - [ ] I can explain why evidence, cleanup, and reporting matter.
 - [ ] I can connect technical findings to business impact.
+- [x] I completed the authorized Module 01 lab and recorded the evidence.
 
 ## Beginner reminder
 

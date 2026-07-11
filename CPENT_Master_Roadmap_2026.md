@@ -1,7 +1,7 @@
 # CPENT Master Roadmap — July to November 2026
 
 **Owner:** RedteamAI  
-**Last updated:** 10 July 2026  
+**Last updated:** 11 July 2026  
 **Primary goal:** Complete CPENT courseware and labs, develop exam-ready practical skills, and sit the exam safely before the 15 November 2026 voucher deadline.
 
 ## 1. Current position
@@ -9,8 +9,8 @@
 | Item | Status | Immediate action |
 |---|---|---|
 | Module 01 theory | Complete | Create a one-page recall sheet |
-| Module 01 lab | Pending | Complete on 11 July; capture commands and evidence |
-| Module 02 | Started / next | Continue after Lab 01; finish theory and lab by 19 July |
+| Module 01 lab | **Complete — 11 July 2026** | Write the mini-report and preserve the evidence set |
+| Module 02 | Started / next | Continue after the Module 01 mini-report; finish theory and lab by 19 July |
 | Remaining modules | Awaiting upload | Map their real topics and workload before assigning exact dates |
 | DefHawk web/API labs | Active | Use only when aligned with the current CPENT topic |
 | TryHackMe | Active support | Use selected rooms for weak areas, not the whole path at once |
@@ -35,7 +35,7 @@ mindmap
   root((CPENT Nov 2026))
     Current
       Module 01 theory done
-      Lab 01 next
+      Lab 01 done
       Module 02 follows
     Main track
       CPENT courseware
@@ -113,8 +113,8 @@ This is the default cadence. Exact module-to-week mapping will be corrected afte
 
 **Saturday, 11 July**
 
-- Complete Lab 01 before adding another course.
-- Save every important command/request, output, screenshot, mistake, and fix.
+- [x] Complete Lab 01 before adding another course.
+- [x] Save every important command/request, output, screenshot, mistake, and fix.
 - If stuck for 25 minutes, request a Level 1 hint rather than a full solution.
 
 **Sunday, 12 July**
@@ -300,13 +300,8 @@ For each uploaded module, the mentor will produce:
 
 The learner will first attempt the lab, record where they became stuck, and then request the smallest useful hint.
 
-## 13. Source conversations and current official references
+## 13. Official references and supporting resources
 
-- [Structured CPENT study guide chat](https://chatgpt.com/share/6a5156b9-1294-83eb-9a00-5c91df8f1d43)
-- [CPENT exam duration and preparation chat](https://chatgpt.com/share/6a5020ee-94f8-83eb-8bc7-e78ca3489daa)
-- [CPENT preparation plan chat](https://chatgpt.com/share/6a5156d0-92e4-83ed-8936-c71273c7309f)
-- [Cybersecurity books and Google Drive chat](https://chatgpt.com/share/6a5156df-70cc-83eb-a36e-b36fd706741c)
-- [Current module timeline chat](https://chatgpt.com/share/6a5156f4-0888-83eb-b85b-85f08a954af1)
 - [Official EC-Council CPENT page](https://www.eccouncil.org/train-certify/certified-penetration-testing-professional-cpent/)
 - [Current CPENT v2 exam blueprint](https://cert.eccouncil.org/images/doc/CPENTv2-Exam-Blueprint.pdf)
 - [TryHackMe Jr Penetration Tester path](https://tryhackme.com/path/outline/jrpenetrationtester)
@@ -317,7 +312,7 @@ The learner will first attempt the lab, record where they became stuck, and then
 
 **By Sunday evening, 12 July 2026:**
 
-- Lab 01 completed.
+- [x] Lab 01 completed on 11 July 2026.
 - Lab 01 mini-report completed.
 - Module 01 one-page map created.
 - Ten Module 01 recall questions answered.
