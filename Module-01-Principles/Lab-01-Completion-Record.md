@@ -90,9 +90,13 @@ I learned basic Linux commands and how to:
 - treat mistakes as useful evidence instead of hiding them; and
 - preserve organized evidence for a penetration-test report.
 
-## Next study tasks
+## Module 01 review tasks
 
-1. Write the Module 01 mini-report.
-2. Create a one-page Module 01 recall sheet.
-3. Answer ten closed-book recall questions.
-4. Continue Module 02 after the review is complete.
+- [x] Write the Module 01 mini-report.
+- [x] Create a one-page Module 01 recall sheet.
+- [x] Answer ten closed-book recall questions.
+- [x] Continue Module 02 after the review is complete.
+
+## Next study task
+
+Continue Module 02 — Penetration Testing Scoping and Engagement.
