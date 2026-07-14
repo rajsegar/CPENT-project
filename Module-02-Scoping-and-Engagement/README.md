@@ -1,10 +1,23 @@
 # Module 02: Penetration Testing Scoping and Engagement
 
+## Status
+
+**Practical lab:** Completed  
+**Rules of Engagement:** Completed  
+**Test plan:** Completed  
+**Evidence:** Submitted by the student and recorded in the completion record  
+**Next step:** Complete the Module 02 closed-book review
+
 ## In plain language
 
 Scoping decides what may be tested, why it is being tested, when testing may
 happen, and which actions are prohibited. It turns a vague request such as
 "test our network" into a safe and measurable engagement.
+
+## Study material
+
+- [Rules of Engagement and Test Plan](Rules-of-Engagement-and-Test-Plan.md)
+- [Module 02 Lab Completion Record](Lab-Completion-Record.md)
 
 ## Key ideas
 
@@ -87,10 +100,8 @@ Try these before reading the answer key.
 
 ## Safe practical exercise
 
-Use [the lab template](../Templates/Lab-Template.md) to write rules of
-engagement for a single intentionally vulnerable local VM.
-
-Include:
+The student completed a rules-of-engagement and test-plan exercise for a single
+intentionally vulnerable local lab target. The exercise documented:
 
 - One target address and owner.
 - A two-hour window with time zone.
@@ -99,12 +110,14 @@ Include:
 - An emergency stop condition.
 - Evidence handling and cleanup.
 
-Do not run tools. The goal is to produce a scope that another beginner could
-follow without guessing.
+No public or third-party systems were included.
 
 ## Completion checklist
 
-- [ ] I can turn a business objective into a precise test objective.
-- [ ] I can find ambiguity in a scope.
-- [ ] I know when to pause and ask for written clarification.
-- [ ] I completed the safe practical exercise.
+- [x] I can turn a business objective into a precise test objective.
+- [x] I can find ambiguity in a scope.
+- [x] I know when to pause and ask for written clarification.
+- [x] I completed the safe practical exercise.
+- [x] I completed the Rules of Engagement document.
+- [x] I completed the test plan.
+- [x] I submitted evidence for the practical exercise.
