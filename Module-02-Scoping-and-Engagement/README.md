@@ -2,11 +2,14 @@
 
 ## Status
 
+**Module status:** Completed  
+**Completion date:** 14 July 2026  
+**Closed-book review score:** 91/100  
 **Practical lab:** Completed  
 **Rules of Engagement:** Completed  
 **Test plan:** Completed  
 **Evidence:** Submitted by the student and recorded in the completion record  
-**Next step:** Complete the Module 02 closed-book review
+**Next module:** Module 03 — OSINT
 
 ## In plain language
 
@@ -18,6 +21,7 @@ happen, and which actions are prohibited. It turns a vague request such as
 
 - [Rules of Engagement and Test Plan](Rules-of-Engagement-and-Test-Plan.md)
 - [Module 02 Lab Completion Record](Lab-Completion-Record.md)
+- [Module 02 Closed-Book Review](Closed-Book-Review.md)
 
 ## Key ideas
 
@@ -121,3 +125,5 @@ No public or third-party systems were included.
 - [x] I completed the Rules of Engagement document.
 - [x] I completed the test plan.
 - [x] I submitted evidence for the practical exercise.
+- [x] I completed the closed-book review with at least 80%.
+- [x] I can explain why third-party systems require separate authorization.
