@@ -7,6 +7,10 @@ publicly available sources and analyzed to answer a specific question.
 Collection is only half the job; useful OSINT also records source quality,
 time, context, and confidence.
 
+## Lab file
+
+- [Module 03 OSINT Collection Plan Lab](OSINT-Collection-Plan.md)
+
 ## Key ideas
 
 | Term | Beginner-friendly meaning |
@@ -85,6 +89,8 @@ domains, and training staff not to publish sensitive operational detail.
 **A:** Its origin, collection time, relevance, and any reliability limitation.
 
 ## Safe practical exercise
+
+Use the [Module 03 OSINT Collection Plan Lab](OSINT-Collection-Plan.md).
 
 Choose a deliberately fictional company. Create a one-page collection plan with:
 
