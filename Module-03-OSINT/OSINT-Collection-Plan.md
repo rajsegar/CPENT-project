@@ -2,7 +2,7 @@
 
 ## Status
 
-**Status:** In progress  
+**Status:** Practical answers completed — evidence screenshots pending  
 **Student:** RedteamAI  
 **Module:** CPENT Module 03 — Open Source Intelligence  
 **Assessment type:** Authorized fictional-company planning exercise  
@@ -110,8 +110,6 @@ The following information must not be retained or reported:
 
 ## 6. Fact, Inference, and Unknown Table
 
-Complete or review the examples below.
-
 | Type | Example |
 | --- | --- |
 | Fact | A fictional job advertisement states that Acme Cyber Labs is seeking an engineer with PostgreSQL experience. |
@@ -123,11 +121,11 @@ Complete or review the examples below.
 
 ### Student example
 
-| Type | Your example |
+| Type | Student answer |
 | --- | --- |
-| Fact | [Write one evidence-supported fact] |
-| Inference | [Write one careful interpretation] |
-| Unknown | [Write what the evidence does not prove] |
+| Fact | A fictional public job advertisement states that Acme Cyber Labs is looking for an engineer with AWS experience. |
+| Inference | Acme Cyber Labs may use AWS or another cloud-based environment. |
+| Unknown | The advertisement does not prove that AWS is used in production, how it is configured, or whether any AWS system is vulnerable. |
 
 ## 7. Source Reliability Table
 
@@ -152,20 +150,39 @@ Complete or review the examples below.
 
 ## 9. Evidence Record
 
-For every important observation, record:
-
 ```text
 Observation:
+A fictional public job advertisement states that Acme Cyber Labs is looking for an engineer with AWS experience.
+
 Fictional asset:
+Acme Cyber Labs technology environment
+
 Source type:
+Fictional public job advertisement
+
 Collection date:
+26 July 2026
+
 Collection time:
-Timezone: Europe/London
-Collection mode: Passive
-Confidence: High / Medium / Low
+Not applicable — fictional planning exercise completed through guided study
+
+Timezone:
+Europe/London
+
+Collection mode:
+Passive
+
+Confidence:
+Medium
+
 Reliability limitation:
+A job advertisement shows a desired skill, but it does not prove that AWS is currently deployed, used in production, or configured in a particular way.
+
 Possible business impact:
+Public technology clues may help an attacker form hypotheses about the organization’s digital footprint and likely cloud environment.
+
 Next authorized validation step:
+Corroborate the technology clue with an independent authorized source. Confirm ownership and written scope before any active validation.
 ```
 
 ## 10. Evidence Screenshots
@@ -181,46 +198,57 @@ Do not upload screenshots containing real personal data, credentials, tokens, pr
 
 ## 11. Reflection
 
-Answer in your own words.
-
 ### What is the difference between data and intelligence?
 
-[Write your answer]
+Data consists of raw, unorganized facts, numbers, observations, or symbols. Intelligence is data that has been processed, analyzed, placed into context, and connected to a defined question so that it tells a meaningful story and supports decisions.
 
 ### What is the difference between passive and active collection?
 
-[Write your answer]
+Passive collection gathers information from public or third-party sources without directly probing the target system. Active collection sends traffic or requests directly to the target and may be logged, trigger alerts, or affect the system, so it requires explicit authorization.
 
 ### Why is a discovered asset not automatically in scope?
 
-[Write your answer]
+A discovered asset may belong to a third party, cloud provider, shared infrastructure, or an unrelated organization. Formal ownership, scope boundaries, and written authorization must be confirmed before active testing.
 
 ### Why must fact and inference be separated?
 
-[Write your answer]
+Separating facts from inferences keeps the report credible and transparent for decision-makers. A fact is directly supported by evidence, while an inference is an interpretation; separating them prevents assumptions from being presented as confirmed findings.
 
 ### What did you learn from this lab?
 
-[Write your answer]
+I learned about passive reconnaissance, digital footprinting, and safe OSINT tool utilization. I also learned to evaluate source reliability, distinguish facts from inferences, protect unrelated personal data, and confirm written scope before active testing.
 
-## 12. Completion Checklist
-
-- [ ] I created three intelligence questions.
-- [ ] I identified two public source types for each question.
-- [ ] I explained source reliability and limitations.
-- [ ] I separated passive and active activities.
-- [ ] I documented a data-minimization rule.
-- [ ] I separated facts, inferences, and unknowns.
-- [ ] I reviewed the simple attack-surface map.
-- [ ] I completed the evidence record fields.
-- [ ] I answered the reflection questions in my own words.
-- [ ] I captured sanitized screenshots.
-- [ ] I did not investigate a real person or organization.
-
-## 13. Final Result
+## 12. Quiz Result
 
 ```text
-Module 03 practical lab: [IN PROGRESS / COMPLETED]
-Evidence screenshots: [PENDING / SUBMITTED]
-Ready for final quiz: [NO / YES]
+Final quiz score: 21/25 — 84%
+Status: Completed
+Review topics:
+- DNS zone transfers require explicit authorization.
+- Corroboration means checking a claim against an independent source.
+- A fact states exactly what the evidence says.
+- Defensive exposure reduction includes decommissioning unused or legacy Internet-facing assets.
+```
+
+## 13. Completion Checklist
+
+- [x] I created three intelligence questions.
+- [x] I identified two public source types for each question.
+- [x] I explained source reliability and limitations.
+- [x] I separated passive and active activities.
+- [x] I documented a data-minimization rule.
+- [x] I separated facts, inferences, and unknowns.
+- [x] I reviewed the simple attack-surface map.
+- [x] I completed the evidence record fields.
+- [x] I answered the reflection questions in my own words.
+- [ ] I captured sanitized screenshots.
+- [x] I did not investigate a real person or organization.
+
+## 14. Final Result
+
+```text
+Module 03 practical answers: COMPLETED
+Module 03 final quiz: COMPLETED — 21/25 (84%)
+Evidence screenshots: PENDING
+Module 03 final completion: PENDING SCREENSHOT EVIDENCE
 ```
